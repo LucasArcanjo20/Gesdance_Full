@@ -82,43 +82,6 @@ Durante o desenvolvimento, a equipe percebeu a importância de:
 
 ---
 
-## 📂 Como Começar
-
-1. **Clone o repositório**
-```bash
-git clone https://gitlab.com/gesdance/gesdance.git
-```
-
-2. **Acesse o diretório do projeto**
-```bash
-cd gesdance
-```
-
-3. **Configure o ambiente**
-- Instale o WAMP Server
-- Configure o banco de dados no MySQL Workbench
-
-4. **Suba o projeto**
-```bash
-git remote add origin https://gitlab.com/gesdance/gesdance.git
-git branch -M main
-git push -uf origin main
-```
-
----
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Siga os seguintes passos:
-
-1. Fork o projeto
-2. Crie uma branch (`git checkout -b feature/nova-funcionalidade`)
-3. Faça o commit (`git commit -m 'Adicionando nova funcionalidade'`)
-4. Faça o push (`git push origin feature/nova-funcionalidade`)
-5. Abra um Pull Request
-
----
-
 ## 👥 Autores
 
 - Desenvolvedor 1: Lucas Rafael Arcanjo
