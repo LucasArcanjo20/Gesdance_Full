@@ -100,18 +100,4 @@ O desenvolvimento do Gesdance está em andamento, com planos de expansão e melh
 
 ---
 
-## 🖼️ Imagens Ilustrativas
 
-### 📸 Imagens
-
-![Controle](./assets/images/fotos-sabrina/contro-le.jpeg)
-
-![Sabrina Rodri](./assets/images/fotos-sabrina/sabrina-rodri.jpeg)
-
-![Lista de Eventos](./assets/images/fotos-sabrina/lista-de-eventos.jpeg)
-
-![Prestação de Serviços](./assets/images/fotos-sabrina/Prestacao-de-servicos.jpeg)
-
-![Administração](./assets/images/fotos-sabrina/Ad-min.jpeg)
-
-![Sobre Nós](./assets/images/fotos-sabrina/Sobre-nos.jpeg)
